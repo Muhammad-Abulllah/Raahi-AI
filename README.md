@@ -2,6 +2,8 @@
 
 Raahi is a React + Vite AI tourism guide for Pakistan. The Gemini API key is used only by the Express server, so it is safe to deploy publicly when the key is stored as a server environment variable.
 
+## Run in browser
+App URL : https://raahi-ai-dkoatkiunq-uc.a.run.app/
 ## Run Locally
 
 Prerequisite: Node.js
